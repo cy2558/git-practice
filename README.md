@@ -3,3 +3,8 @@
 Article: [Bun 1.4](https://bun.com/blog/bun-v1.4)
 
 What I find most interesting about Bun 1.4 is how Jarred used coding agents to help pull off the rewrite from Zig to Rust. He goes into more detail in [his post about the rewrite](https://bun.com/blog/bun-in-rust). Rewriting a project as big as Bun is already a huge task. Seeing agents help with that kind of work makes me rethink what they are capable of. I'm inspired by how he uses agents while finding ways to verify their work and build confidence in the results.
+
+## Comments
+
+### Jiaming
+This is a very inspiring article. The Zig to Rust rewrite proves that coding agents can feasibly migrate giant codebases. At that scale, it is more important to review the migration pipeline than reviewing the 1 million line diff.
