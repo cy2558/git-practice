@@ -6,3 +6,15 @@ What I find most interesting about Bun 1.4 is how Jarred used coding agents to h
 
 ## Ryan's Comment
 the verification part is very interesting. coding agent can make a rewrite much faster, but in a project like Bun, small mistakes can have heavt consequences. As agents get better at coding, it seems that the role of the engineer is shifting to designing good tests and reviewing output and reviewing the generated code. 
+
+## Comment from Victor Derani
+
+I found this article interesting because it shows how much engineering work can go into improving the performance and compatibility of a development tool. I was especially interested in Bun's effort to become more compatible with Node.js while also reducing memory and CPU usage and improving startup speed.
+
+## Comment by GoodrainCN
+
+I also found the use of coding agents in Bun's rewrite interesting. It shows how AI can help developers handle large amounts of work, but careful review is still important to make sure the results are reliable.
+
+### Jiaming
+This is a very inspiring article. The Zig to Rust rewrite proves that coding agents can feasibly migrate giant codebases. At that scale, it is more important to review the migration pipeline than reviewing the 1 million line diff.
+
